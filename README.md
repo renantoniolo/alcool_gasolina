@@ -1,5 +1,5 @@
 # App Alcool ou Gasolina
- Aplicativo exibe personagens da `Marvel` (foto/nome/descrição) onde é possível adiciona-los como favorito.
+ Aplicativo para fazer o cálculo de qual combustivel é mais vantajoso para abastecer.
  
   ### Projeto desenvolvido ultilizando:
   - [x] Flutter SDK
