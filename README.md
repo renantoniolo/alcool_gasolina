@@ -1,4 +1,4 @@
-# App Alcoll ou Gasolina
+# App Alcool ou Gasolina
  Aplicativo para fazer o cálculo de qual combustivel é mais vantajoso para abastecer.
  
   ### Projeto desenvolvido ultilizando:
@@ -11,4 +11,4 @@
  
 | ![marvel](printscreen/print.png) |
 |:---:|
-| App Alcoll Gasolina | 
+| App Alcool Gasolina | 
